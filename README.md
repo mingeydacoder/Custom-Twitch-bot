@@ -3,6 +3,7 @@ This is a program that allows you create a bot (or combine your own account) in 
 
 ## Requirements (libraries)
 Twitchio.ext database  Twitch api
+SQlite 
 
 ## Overview
 There's only one python file to do the trick. In order to handle chat messages, we use a module called twitch.io
